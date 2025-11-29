@@ -5,7 +5,6 @@
 
 
 ## AIM  : To simulate the performance of R-2R  circuits using LT- SPICE                
-
 ---
 
 ## PROCEDURE:
